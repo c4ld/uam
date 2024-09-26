@@ -1,6 +1,6 @@
 ﻿using System;
 
-// 1. Crea un record llamado “Estudiante” con campos para Nombre, Edad, y Promedio. Luego, escribe un programa que cree una instancia de “Estudiante”, asigne valores a los campos, y muestre la información en la consola.
+// 1. Crea un struct llamado “Estudiante” con campos para Nombre, Edad, y Promedio. Luego, escribe un programa que cree una instancia de “Estudiante”, asigne valores a los campos, y muestre la información en la consola.
 
 public record Estudiante
 (
