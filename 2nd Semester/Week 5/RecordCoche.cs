@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// 9. Define un struct llamado “Coche” con campos para Marca, Modelo, y Año. Escribe un programa que permita al usuario ingresar la información para varios coches, almacene los datos en un arreglo, y luego muestre todos los coches ingresados.
+
 public record Coche(string Marca, string Modelo, string Año); // Año como string
 
 class Program
