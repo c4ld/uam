@@ -1,5 +1,7 @@
 ﻿using System;
 
+// 2. Crea un struct llamado “Producto” con campos para ID, Nombre, y Precio. Define un arreglo de “Producto” con 5 elementos, inicialízalo con datos de ejemplo, y escribe un programa que muestre los detalles de todos los productos en el arreglo.
+
 public record Producto
 (
     string ID,
@@ -39,6 +41,8 @@ class Program
         Console.WriteLine("╚════════════╩═══════════════════════════════════════════╝");
 
         double precioTotalStockBajo = 0;
+
+        // 3. Utiliza el struct “Producto” del ejercicio anterior. Modifica el programa para calcular el precio total de todos los productos en el arreglo y muestra el resultado.
 
         Console.WriteLine("╔════════════════════════════════════════════════════════╗");
         Console.WriteLine("║Productos en stock bajo (≤5)                            ║");
