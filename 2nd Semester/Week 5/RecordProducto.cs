@@ -23,6 +23,8 @@ class Program
             new Producto("P005", "Impresora", 120.00, 5)
         };
 
+        // 3. Utiliza el struct “Producto” del ejercicio anterior. Modifica el programa para calcular el precio total de todos los productos en el arreglo y muestra el resultado.
+        
         double precioTotal = 0;
 
         // Mostrar los productos
@@ -42,7 +44,7 @@ class Program
 
         double precioTotalStockBajo = 0;
 
-        // 3. Utiliza el struct “Producto” del ejercicio anterior. Modifica el programa para calcular el precio total de todos los productos en el arreglo y muestra el resultado.
+        // 6. Modifica el struct “Producto” para incluir un campo CantidadEnStock. Escribe un programa que busque todos los productos en el arreglo que tienen existencia baja es decir que la cantidad en stock es menor o igual que 5.  Muestre la lista de todos los productos que cumplen la condición de búsqueda.
 
         Console.WriteLine("╔════════════════════════════════════════════════════════╗");
         Console.WriteLine("║Productos en stock bajo (≤5)                            ║");
