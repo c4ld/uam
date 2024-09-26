@@ -1,5 +1,7 @@
 ﻿using System;
 
+// 7. Define un struct llamado “Rectangulo” con campos para Ancho y Altura. Agrega un método al struct para calcular el área del rectángulo. Crea un arreglo de “Rectangulo”, calcula el área de cada uno y muestra los resultados.
+
 public record Rectangulo(float Ancho, float Altura)
 {
     // Método
