@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\Binario\bin\Debug\net8.0\Binario.exe
+C:\Users\c4ld\Desktop\Binario\bin\Debug\net8.0\Binario.deps.json
+C:\Users\c4ld\Desktop\Binario\bin\Debug\net8.0\Binario.runtimeconfig.json
+c:\Users\c4ld\Desktop\Binario\bin\Debug\net8.0\Binario.dll
+c:\Users\c4ld\Desktop\Binario\bin\Debug\net8.0\Binario.pdb
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.dll
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\refint\Binario.dll
+c:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.pdb
+C:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\Binario.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\Binario\obj\Debug\net8.0\ref\Binario.dll
