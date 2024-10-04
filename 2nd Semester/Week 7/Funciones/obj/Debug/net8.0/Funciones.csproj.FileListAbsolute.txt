@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\Funciones\bin\Debug\net8.0\Funciones.exe
+C:\Users\c4ld\Desktop\Funciones\bin\Debug\net8.0\Funciones.deps.json
+C:\Users\c4ld\Desktop\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+c:\Users\c4ld\Desktop\Funciones\bin\Debug\net8.0\Funciones.dll
+c:\Users\c4ld\Desktop\Funciones\bin\Debug\net8.0\Funciones.pdb
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.dll
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+c:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.pdb
+C:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\Funciones\obj\Debug\net8.0\ref\Funciones.dll
