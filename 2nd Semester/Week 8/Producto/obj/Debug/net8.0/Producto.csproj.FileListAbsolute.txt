@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\Producto\bin\Debug\net8.0\Producto.exe
+C:\Users\c4ld\Desktop\Producto\bin\Debug\net8.0\Producto.deps.json
+C:\Users\c4ld\Desktop\Producto\bin\Debug\net8.0\Producto.runtimeconfig.json
+c:\Users\c4ld\Desktop\Producto\bin\Debug\net8.0\Producto.dll
+c:\Users\c4ld\Desktop\Producto\bin\Debug\net8.0\Producto.pdb
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.dll
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\refint\Producto.dll
+c:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.pdb
+C:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\Producto.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\Producto\obj\Debug\net8.0\ref\Producto.dll

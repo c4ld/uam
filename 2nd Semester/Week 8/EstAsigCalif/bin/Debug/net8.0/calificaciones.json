@@ -1,0 +1,90 @@
+[
+  {
+    "Estudiante": {
+      "Nombre": "Connie",
+      "Matricula": "23020134"
+    },
+    "Asignatura": {
+      "Nombre": "Comunicaci\u00F3n II",
+      "Codigo": "CYL0102"
+    },
+    "Nota": 98
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Crista",
+      "Matricula": "23020940"
+    },
+    "Asignatura": {
+      "Nombre": "Significado Arte",
+      "Codigo": "DIS0127"
+    },
+    "Nota": 100
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Dan",
+      "Matricula": "23020135"
+    },
+    "Asignatura": {
+      "Nombre": "Endodoncia I",
+      "Codigo": "ENC0201"
+    },
+    "Nota": 80
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Stalin",
+      "Matricula": "23020137"
+    },
+    "Asignatura": {
+      "Nombre": "Programaci\u00F3n",
+      "Codigo": "SIS0107"
+    },
+    "Nota": 100
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Valeria",
+      "Matricula": "23020180"
+    },
+    "Asignatura": {
+      "Nombre": "Qu\u00EDmica",
+      "Codigo": "QUI0907"
+    },
+    "Nota": 0
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Tania",
+      "Matricula": "23020824"
+    },
+    "Asignatura": {
+      "Nombre": "Fotograf\u00EDa",
+      "Codigo": "FTF0101"
+    },
+    "Nota": 89
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Nahomy",
+      "Matricula": "22020341"
+    },
+    "Asignatura": {
+      "Nombre": "Ecolog\u00EDa",
+      "Codigo": "ECO0809"
+    },
+    "Nota": 95
+  },
+  {
+    "Estudiante": {
+      "Nombre": "Fi\u00F3dor",
+      "Matricula": "20010203"
+    },
+    "Asignatura": {
+      "Nombre": "Escritura",
+      "Codigo": "ESC0707"
+    },
+    "Nota": 15
+  }
+]

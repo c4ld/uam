@@ -1,0 +1,28 @@
+c:\Users\c4ld\Desktop\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.exe
+C:\Users\c4ld\Desktop\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.deps.json
+C:\Users\c4ld\Desktop\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.runtimeconfig.json
+c:\Users\c4ld\Desktop\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.dll
+c:\Users\c4ld\Desktop\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.pdb
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.dll
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\refint\EstAsigCalif.dll
+c:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.pdb
+C:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\EstAsigCalif\obj\Debug\net8.0\ref\EstAsigCalif.dll
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.exe
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.deps.json
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.runtimeconfig.json
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.dll
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\bin\Debug\net8.0\EstAsigCalif.pdb
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.AssemblyInfoInputs.cache
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.AssemblyInfo.cs
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.csproj.CoreCompileInputs.cache
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.dll
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\refint\EstAsigCalif.dll
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.pdb
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\EstAsigCalif.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\Week 8\EstAsigCalif\obj\Debug\net8.0\ref\EstAsigCalif.dll
