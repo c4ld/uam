@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
@@ -41,10 +41,18 @@ class Program
             productosLeidos = JsonSerializer.Deserialize<List<Producto>>(fs);
         }
 
-        Console.WriteLine("Productos leídos desde el archivo JSON:");
-        foreach (var producto in productosLeidos)
-        {
-            Console.WriteLine($"Código: {producto.Codigo}, Descripción: {producto.Descripcion}, Precio: {producto.Precio}");
-        }
+Console.WriteLine(@"╔═══════════════════════╦════════════════════╦══════════════╗
+║ Código                ║ Descripción        ║ Precio       ║
+╠═══════════════════════╩════════════════════╩══════════════╣");
+
+foreach (var producto in productosLeidos)
+{
+    Console.WriteLine("║                                                           ║");
+    Console.WriteLine($"║ {producto.Codigo,-21}   {producto.Descripcion,-18}   {producto.Precio,-12} ║");
+    Console.WriteLine("║                                                           ║");
+
+Console.WriteLine("╚═══════════════════════════════════════════════════════════╝");
+
     }
+}
 }
