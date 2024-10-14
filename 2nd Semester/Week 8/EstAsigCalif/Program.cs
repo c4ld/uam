@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
@@ -193,70 +193,82 @@ static void Leer()
 }
 
     static void Actualizar()
-    {
-        Console.Clear();
+{
+    Console.Clear();
 
-        if (File.Exists(filePath))
+    if (File.Exists(filePath))
+    {
+        using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
         {
-            using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
-            {
-                listaCalificaciones = JsonSerializer.Deserialize<List<Calificacion>>(fs);
-            }
+            listaCalificaciones = JsonSerializer.Deserialize<List<Calificacion>>(fs);
+        }
 
         Console.WriteLine(@"╔═══════════════════════╦══════════════╦════════════════════╦══════════╦════════════════╗
 ║ Estudiante            ║ Matrícula    ║ Asignatura         ║ Código   ║ Calificación   ║
 ╠═══════════════════════╩══════════════╩════════════════════╩══════════╩════════════════╣
 ║                                                                                       ║");
 
-    foreach (var calificacion in listaCalificaciones)
-    {
-        Console.WriteLine($"║ {calificacion.Estudiante.Nombre,-21}   " +
-                          $"{calificacion.Estudiante.Matricula,-12}   " +
-                          $"{calificacion.Asignatura.Nombre,-18}   " +
-                          $"{calificacion.Asignatura.Codigo,-8}   " +
-                          $"{calificacion.Nota,-14} ║");
-        Console.WriteLine("║                                                                                       ║");
+        foreach (var calificacion in listaCalificaciones)
+        {
+            Console.WriteLine($"║ {calificacion.Estudiante.Nombre,-21}   " +
+                              $"{calificacion.Estudiante.Matricula,-12}   " +
+                              $"{calificacion.Asignatura.Nombre,-18}   " +
+                              $"{calificacion.Asignatura.Codigo,-8}   " +
+                              $"{calificacion.Nota,-14} ║");
+            Console.WriteLine("║                                                                                       ║");
+        }
+        Console.WriteLine("╚═══════════════════════════════════════════════════════════════════════════════════════╝");
     }
-    Console.WriteLine("╚═══════════════════════════════════════════════════════════════════════════════════════╝");
-}
     else
     {
         Console.WriteLine("El archivo no existe. \n");
     }
 
-        Console.Write("Ingrese la matrícula del estudiante a actualizar: ");
-        string matricula = Console.ReadLine();
-        Console.Write("Ingrese el código de la asignatura a actualizar: ");
-        string codigoAsignatura = Console.ReadLine();
+    Console.Write("Ingrese la matrícula del estudiante a actualizar: ");
+    string matricula = Console.ReadLine();
+    Console.Write("Ingrese el código de la asignatura a actualizar: ");
+    string codigoAsignatura = Console.ReadLine();
 
-        Calificacion? calificacionEncontrada = listaCalificaciones.Find(c => 
+    Calificacion? calificacionEncontrada = listaCalificaciones.Find(c => 
+        c.Estudiante.Matricula == matricula && c.Asignatura.Codigo == codigoAsignatura);
+
+    if (calificacionEncontrada.HasValue)
+    {
+        Calificacion calificacion = calificacionEncontrada.Value;
+
+        // Actualización de la nota con validación
+        int nuevaNota;
+        while (true)
+        {
+            Console.Write($"Nueva Nota (actual: {calificacion.Nota}, 0-100): ");
+            if (int.TryParse(Console.ReadLine(), out nuevaNota) && nuevaNota >= 0 && nuevaNota <= 100)
+            {
+                calificacion.Nota = nuevaNota;
+                break; // Salir del bucle si la nueva nota es válida
+            }
+            else
+            {
+                Console.WriteLine("Error: La nota debe estar entre 0 y 100. Inténtalo de nuevo.");
+            }
+        }
+
+        // Recorre la lista de calificaciones para encontrar la posición del primer elemento que cumpla con las condiciones
+        int index = listaCalificaciones.FindIndex(c => 
             c.Estudiante.Matricula == matricula && c.Asignatura.Codigo == codigoAsignatura);
+        listaCalificaciones[index] = calificacion;
 
-        if (calificacionEncontrada.HasValue)
-        {
-            Calificacion calificacion = calificacionEncontrada.Value;
-            
-            // Actualización de la nota
-            Console.Write("Nueva Nota (actual: {0}): ", calificacion.Nota);
-            calificacion.Nota = float.Parse(Console.ReadLine());
-
-            // Recorre la lista de calificaciones para encontrar la posición del primer elemento que cumpla con las condiciones
-            int index = listaCalificaciones.FindIndex(c => 
-                c.Estudiante.Matricula == matricula && c.Asignatura.Codigo == codigoAsignatura);
-            listaCalificaciones[index] = calificacion;
-
-            Console.WriteLine("Calificación actualizada exitosamente.");
-        }
-        else
-        {
-            Console.WriteLine("Calificación no encontrada.");
-        }
-        Guardar();
-
-        Console.WriteLine("Ingrese cualquier cosa para continuar");
-        string x = Console.ReadLine();
-        Console.Clear();
+        Console.WriteLine("Calificación actualizada exitosamente.");
     }
+    else
+    {
+        Console.WriteLine("Calificación no encontrada.");
+    }
+    Guardar();
+
+    Console.WriteLine("Ingrese cualquier cosa para continuar");
+    string x = Console.ReadLine();
+    Console.Clear();
+}
 
     static void Eliminar()
     {
