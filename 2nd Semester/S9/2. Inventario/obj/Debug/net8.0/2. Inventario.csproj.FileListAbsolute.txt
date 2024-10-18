@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\2. Inventario\bin\Debug\net8.0\2. Inventario.exe
+C:\Users\c4ld\Desktop\2. Inventario\bin\Debug\net8.0\2. Inventario.deps.json
+C:\Users\c4ld\Desktop\2. Inventario\bin\Debug\net8.0\2. Inventario.runtimeconfig.json
+c:\Users\c4ld\Desktop\2. Inventario\bin\Debug\net8.0\2. Inventario.dll
+c:\Users\c4ld\Desktop\2. Inventario\bin\Debug\net8.0\2. Inventario.pdb
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.dll
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\refint\2. Inventario.dll
+c:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.pdb
+C:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\2. Inventario.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\2. Inventario\obj\Debug\net8.0\ref\2. Inventario.dll

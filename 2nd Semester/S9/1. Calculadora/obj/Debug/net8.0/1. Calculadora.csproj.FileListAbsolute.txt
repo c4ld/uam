@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\1. Calculadora\bin\Debug\net8.0\1. Calculadora.exe
+C:\Users\c4ld\Desktop\1. Calculadora\bin\Debug\net8.0\1. Calculadora.deps.json
+C:\Users\c4ld\Desktop\1. Calculadora\bin\Debug\net8.0\1. Calculadora.runtimeconfig.json
+c:\Users\c4ld\Desktop\1. Calculadora\bin\Debug\net8.0\1. Calculadora.dll
+c:\Users\c4ld\Desktop\1. Calculadora\bin\Debug\net8.0\1. Calculadora.pdb
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.dll
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\refint\1. Calculadora.dll
+c:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.pdb
+C:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\1. Calculadora.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\1. Calculadora\obj\Debug\net8.0\ref\1. Calculadora.dll
