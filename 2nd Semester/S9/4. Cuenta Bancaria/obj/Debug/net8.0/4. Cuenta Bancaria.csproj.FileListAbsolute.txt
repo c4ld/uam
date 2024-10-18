@@ -1,0 +1,14 @@
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\bin\Debug\net8.0\4. Cuenta Bancaria.exe
+C:\Users\c4ld\Desktop\4. Cuenta Bancaria\bin\Debug\net8.0\4. Cuenta Bancaria.deps.json
+C:\Users\c4ld\Desktop\4. Cuenta Bancaria\bin\Debug\net8.0\4. Cuenta Bancaria.runtimeconfig.json
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\bin\Debug\net8.0\4. Cuenta Bancaria.dll
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\bin\Debug\net8.0\4. Cuenta Bancaria.pdb
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.AssemblyInfoInputs.cache
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.AssemblyInfo.cs
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.csproj.CoreCompileInputs.cache
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.dll
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\refint\4. Cuenta Bancaria.dll
+c:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.pdb
+C:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\4. Cuenta Bancaria.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\4. Cuenta Bancaria\obj\Debug\net8.0\ref\4. Cuenta Bancaria.dll
